@@ -144,7 +144,7 @@ main {
   width: 90vw;
   margin: 5rem 0;
   max-width: var(--fixed-width);
-  background: var(--clr-white);
+  background: lightgoldenrodyellow;
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
   box-shadow: var(--dark-shadow);
