@@ -31,7 +31,7 @@ Variables
   --clr-grey-9: hsl(212, 33%, 89%);
   --clr-grey-10: hsl(210, 36%, 96%);
   --clr-white: #fff;
-  --clr-purple: #4b145b;
+  --clr-purple: #4a145b77;
   --clr-red-special: #b4345c;
   --clr-grey-special: #eae6eb;
   --clr-red-dark: hsl(360, 67%, 44%);
@@ -152,7 +152,8 @@ main {
 }
 
 .container {
-  width: 90vw;
+  width: 100vw;
+  height: 50vw;
   margin: 5rem auto;
   background: var(--clr-white);
   border-radius: var(--radius);
