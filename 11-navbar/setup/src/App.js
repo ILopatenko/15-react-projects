@@ -1,11 +1,8 @@
-import React from 'react'
-import Navbar from './Navbar'
-function App() {
-  return (
-    <>
-      <h2>navbar project setup</h2>
-    </>
-  )
-}
+import React from 'react';
+import Navbar from './Navbar';
 
-export default App
+const App = () => {
+  return <Navbar />;
+};
+
+export default App;
